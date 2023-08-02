@@ -44,6 +44,7 @@ If no results are found, a message will be displayed in the table.
 - You need to replace `YOUR_HUBSPOT_ACCESS_TOKEN` with your actual HubSpot access token in the PHP script.
 
 Please note that this document is a simplified overview. Refer to the original HTML code for the complete implementation details.
+For more details, refer to the [HubSpot Contacts API Documentation](https://developers.hubspot.com/docs/api/crm/contacts).
 
 ---
 
